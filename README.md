@@ -8,7 +8,7 @@
 
 In case there are problems with the internet connection, please go forward with the slides and the Jupyter notebooks! The solutions to the Jupyter notebook exercises will be provided later! The best strategy is to download the entire repository and work on the notebooks locally. Best practice is, if you immediately make a copy of a downloaded notebook in order to always have an original. Then modify the copy!
 
-Week 01
+Week 01 - May 14 2021
 
 - The focus is on understanding the Fourier methods
 - continuous Fourier series
