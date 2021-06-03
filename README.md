@@ -20,6 +20,25 @@ Week 01 - May 14 2021
 - Simple spectra
 - Tapering, zero-padding
 
+Week 02 - May 21 2021
+
+- Spectral Estimation 
+- Tapering
+- 0-padding
+- Demeaning
+- Application to free oscillations
+- Time-frequency analysis
+
+Week 03 - June 4 2021
+
+- Power spectral densities
+- Linear systems in geophysics
+- Convolution/deconvolution
+- Simple filters
+- Butterworth Filter
+- Low/High/Bandpass
+- Causal/acausal filters
+- Application to seismic data
 
 
 
