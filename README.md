@@ -8,7 +8,7 @@
 
 In case there are problems with the internet connection, please go forward with the slides and the Jupyter notebooks! The solutions to the Jupyter notebook exercises will be provided later! The best strategy is to download the entire repository and work on the notebooks locally. Best practice is, if you immediately make a copy of a downloaded notebook in order to always have an original. Then modify the copy!
 
-Week 01 - May 14 2021
+Part 01 
 
 - The focus is on understanding the Fourier methods
 - continuous Fourier series
@@ -20,7 +20,7 @@ Week 01 - May 14 2021
 - Simple spectra
 - Tapering, zero-padding
 
-Week 02 - May 21 2021
+Part 02
 
 - Spectral Estimation 
 - Tapering
@@ -29,11 +29,13 @@ Week 02 - May 21 2021
 - Application to free oscillations
 - Time-frequency analysis
 
-Week 03 - June 4 2021
+Part 03 
 
 - Power spectral densities
 - Linear systems in geophysics
 - Convolution/deconvolution
+
+Part 04
 - Simple filters
 - Butterworth Filter
 - Low/High/Bandpass
