@@ -1,4 +1,4 @@
-# GDA2021
+# GDA2022
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/heinerigel/GDA2021/main)
